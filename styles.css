@@ -1,0 +1,61 @@
+body {
+    background-color: #FED049;
+      color: #3D5656;
+  }
+
+
+  
+  
+  .nav-link{
+      color: #FFFD95;
+  }
+  
+  .mhbrand {
+    
+    font-family: 'Montserrat', sans-serif;
+      color: #FFFD95;
+  }
+  
+  .index {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .Download{
+    border-radius: 4px;
+    background-color: #39A388;
+    border: 2px solid #FFFD95;
+    color: #FFFD95;
+    margin-top: 40px;
+    margin-left: 60px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+  
+  #signup{
+    background-color: #FFFD95;
+    text-align: center;
+    padding: 20px 0 0 20px;
+    color: #39A388;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+  }
+  
+  .signup-button{
+    margin:auto;
+    width: 50%;
+    border-radius: 4px;
+    background-color: #39A388;
+    border: 2px solid #FFFD95;
+    color: #FFFD95;
+    padding: 12px 12px 12px 12px;
+  }
+  
+  footer{
+  
+    background-color: #3D5656;
+    color:#FED049;
+    text-align: center;
+  }
